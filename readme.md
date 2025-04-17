@@ -114,7 +114,7 @@ snarkjs zkey export verificationkey multiplier_0001.zkey verification_key.json
 
 Create an `input.json` file with your private inputs:
 ```json
-{"a": 3, "b": 5}
+{"a": 3, "b": 8}
 ```
 
 Generate the proof:
